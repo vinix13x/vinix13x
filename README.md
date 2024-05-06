@@ -2,7 +2,7 @@
 &nbsp;&nbsp;&nbsp;
 
 
-<p align="center">Como um apaixonado desenvolvedor web e especialista em UI/UX, resolvo grandes desafios usando tecnologia. Minha carreira é equilibrada entre competências técnicas, melhorando continuamente softwares. Além disso, tenho habilidades em design de interfaces intuitivas e agradáveis para os usuários. 😊🚀</p>&nbsp;
+<p align="center">Como um apaixonado desenvolvedor web e UI/UX Designer, resolvo grandes desafios usando tecnologia. Minha carreira é equilibrada entre competências técnicas, melhorando continuamente softwares. Além disso, tenho habilidades em design de interfaces intuitivas e agradáveis para os usuários. 😊🚀</p>&nbsp;
 
  
  &nbsp;
